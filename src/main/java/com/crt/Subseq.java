@@ -2,6 +2,7 @@ package com.crt;
 
 public class Subseq {
 	public static void main(String args[]) {
+		//Program to count 
 		String S="abaabadbsbcbdbacabababa";
 		String S1="aba";
 		int count=0;
